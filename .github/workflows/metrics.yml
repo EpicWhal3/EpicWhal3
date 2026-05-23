@@ -35,8 +35,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: Europe/Moscow
-          plugin_projects: yes
-          plugin_projects_limit: 4
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
           plugin_traffic: yes
