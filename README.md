@@ -9,7 +9,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on MLOps project based on stroke predictions
+🔭 I’m currently working on SplitTheBill app
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshkn_mxm)
