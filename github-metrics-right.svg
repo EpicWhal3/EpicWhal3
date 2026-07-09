@@ -57,7 +57,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="128.13333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="128.65 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -79,7 +79,7 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 448 times</div>
+                                <div class="text">Repositories have been deployed 449 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -333,14 +333,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="148.9869336922967" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="148.9869336922967" y="0" width="132.28108571908214" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="281.2680194113788" y="0" width="65.36426387122914" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="346.63228328260794" y="0" width="64.77508313462887" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="411.40736641723686" y="0" width="19.7928499555959" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="431.2002163728327" y="0" width="0.5958543048141919" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="431.7960706776469" y="0" width="0.5601030465253404" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="432.35617372417227" y="0" width="27.643826275827692" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="148.32382573968664" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="148.32382573968664" y="0" width="133.04470847522228" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="281.3685342149089" y="0" width="65.32750449487543" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="346.6960387097843" y="0" width="64.73865510013009" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="411.4346938099144" y="0" width="19.781718906647445" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="431.2164127165618" y="0" width="0.5955192098961829" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="431.81193192645804" y="0" width="0.5597880573024119" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="432.37171998376044" y="0" width="27.62828001623955" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -352,7 +352,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>32.39%</div>
+                                <div>32.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -363,7 +363,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>14.21%</div>
+                                <div>14.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -398,7 +398,7 @@
                                 Go
                             </div>
                             <small>
-                                <div>28.76%</div>
+                                <div>28.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -409,7 +409,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>14.08%</div>
+                                <div>14.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
