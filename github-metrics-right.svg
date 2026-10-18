@@ -25,7 +25,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.910000000000004 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="50.013333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -47,7 +47,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1483 times</div>
+                                <div class="text">Repositories have been deployed 1484 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -92,7 +92,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6365503080082058 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.848733744010941 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -320,14 +320,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.83275267760496" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="358.83275267760496" y="0" width="41.02441709677062" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="399.85716977437556" y="0" width="29.050323085960446" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="428.907492860336" y="0" width="12.17426321992382" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="441.0817560802598" y="0" width="10.132079166220246" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="451.2138352464801" y="0" width="3.0680789593270057" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.2819142058071" y="0" width="0.30812314581170497" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="454.5900373516188" y="0" width="5.409962648381246" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.8204758188949" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="358.8204758188949" y="0" width="41.023013515384584" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="399.84348933427947" y="0" width="29.049329178048353" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="428.89281851232784" y="0" width="12.173846697997284" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="441.06666521032514" y="0" width="10.13173251418407" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="451.1983977245092" y="0" width="3.0679739901690524" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.26637171467826" y="0" width="0.30811260389684864" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="454.5744843185751" y="0" width="5.4255156814248675" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -339,7 +339,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>78.01%</div>
+                                <div>78%</div>
                             </small>
                         </div>
                         <div class="field language details">
